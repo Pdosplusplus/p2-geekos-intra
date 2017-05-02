@@ -1,0 +1,2 @@
+/etc/nginx/sites-available/intra.nginx.conf /etc/nginx/sites-enabled/intra.nginx.conf
+/etc/uwsgi/apps-available/intra.uwsgi.ini /etc/uwsgi/apps-enabled/intra.uwsgi.ini

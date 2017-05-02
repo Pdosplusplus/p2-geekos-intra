@@ -1,0 +1,19 @@
+{
+  "name": "intra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://git"
+  },
+  "author": "Victor Pino",
+  "license": "ISC",
+  "bugs": {
+    "url": "http://issues"
+  },
+  "homepage": "http://",
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
+}
